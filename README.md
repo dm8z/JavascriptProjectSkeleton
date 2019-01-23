@@ -1,17 +1,17 @@
 # Scheletro per i lavori di gruppo
 
-## Titolo progetto 
+## VeggApp
 
-Ogni gruppo definisce un titolo progetto (< 100 caratteri) e una descrizione( <500 caratteri)
+VeggApp è un sito che permette la visualizzazione di ricette vegane e vegetariane prendendole da siti esterni e realmente esistenti tramite le api di Edamam.
 
 ## Partecipanti
-Elenco partecipanti
+Samuele Martinelli, Davide Masserdotti, Ivan Adamovich.
 
 ## Ruoli
 
-* PROJECT_MANAGER = 
-* DOCUMENTAZIONE = 
-* CSS = 
+* PROJECT_MANAGER = Samuele Martinelli
+* DOCUMENTAZIONE = Davide Masserdotti
+* CSS = Ivan Adamovich
 
 ## Regolamento
 * Ogni gruppo consegnerà il link ad un repository GIT che sarà un fork di questo progetto.
